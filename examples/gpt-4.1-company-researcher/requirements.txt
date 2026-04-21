@@ -1,4 +1,4 @@
-python-dotenv==1.0.1
+python-dotenv==1.2.2
 requests==2.33.0
 serpapi-python==0.1.5
 openai==1.12.0
